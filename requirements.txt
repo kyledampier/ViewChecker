@@ -1,0 +1,6 @@
+pandas
+tensorflow
+keras
+torch
+transformers
+streamlit
